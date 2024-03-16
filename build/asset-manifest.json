@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9a6d1f18.css",
-    "main.js": "/static/js/main.c65ca593.js",
+    "main.js": "/static/js/main.de0b32b4.js",
+    "static/media/maidenlessBrothers.png": "/static/media/maidenlessBrothers.05c0ec5923c17816620d.png",
     "index.html": "/index.html",
     "main.9a6d1f18.css.map": "/static/css/main.9a6d1f18.css.map",
-    "main.c65ca593.js.map": "/static/js/main.c65ca593.js.map"
+    "main.de0b32b4.js.map": "/static/js/main.de0b32b4.js.map"
   },
   "entrypoints": [
     "static/css/main.9a6d1f18.css",
-    "static/js/main.c65ca593.js"
+    "static/js/main.de0b32b4.js"
   ]
 }
